@@ -13,7 +13,7 @@ if (!app.Environment.IsDevelopment())
 	app.UseHsts();
 }
 
-//test
+//test - test
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
